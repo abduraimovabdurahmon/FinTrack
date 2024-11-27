@@ -42,7 +42,7 @@ const BottomNav = () => {
         boxShadow: 3,
       }}
     >
-      <BottomNavigationAction label="Home" icon={<Home />} />
+      <BottomNavigationAction label="Uy" icon={<Home />} />
       <BottomNavigationAction label="Search" icon={<Search />} />
       <BottomNavigationAction label="Notifications" icon={<Notifications />} />
       <BottomNavigationAction label="Profile" icon={<AccountCircle />} />
